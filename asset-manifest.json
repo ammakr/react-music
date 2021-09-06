@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmmarMusic/static/css/main.c905367b.chunk.css",
+    "main.js": "/AmmarMusic/static/js/main.d14a1d9e.chunk.js",
+    "main.js.map": "/AmmarMusic/static/js/main.d14a1d9e.chunk.js.map",
+    "runtime-main.js": "/AmmarMusic/static/js/runtime-main.b55fb0a5.js",
+    "runtime-main.js.map": "/AmmarMusic/static/js/runtime-main.b55fb0a5.js.map",
+    "static/js/2.88c79a6f.chunk.js": "/AmmarMusic/static/js/2.88c79a6f.chunk.js",
+    "static/js/2.88c79a6f.chunk.js.map": "/AmmarMusic/static/js/2.88c79a6f.chunk.js.map",
+    "static/js/3.afa89e9f.chunk.js": "/AmmarMusic/static/js/3.afa89e9f.chunk.js",
+    "static/js/3.afa89e9f.chunk.js.map": "/AmmarMusic/static/js/3.afa89e9f.chunk.js.map",
+    "index.html": "/AmmarMusic/index.html",
+    "static/css/main.c905367b.chunk.css.map": "/AmmarMusic/static/css/main.c905367b.chunk.css.map",
+    "static/js/2.88c79a6f.chunk.js.LICENSE.txt": "/AmmarMusic/static/js/2.88c79a6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b55fb0a5.js",
+    "static/js/2.88c79a6f.chunk.js",
+    "static/css/main.c905367b.chunk.css",
+    "static/js/main.d14a1d9e.chunk.js"
+  ]
+}
