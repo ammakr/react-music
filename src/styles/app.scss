@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+input,
+textarea,
+button,
+select,
+a,
+div,
+svg,
+path {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
 h1,
 h2,
 h3 {
